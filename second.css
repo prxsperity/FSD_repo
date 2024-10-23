@@ -1,0 +1,31 @@
+.container{
+    background-color: yellow;
+}
+
+.container_fluid{
+    background-color: pink;
+}
+.row{
+    border-style: solid;
+    border-color: red;
+}
+.col{
+    border-style: solid;
+    border-color: rgb(148, 148, 194);
+}
+.div1{
+    left: 80pt;
+    top: 20pt;
+    background-color: red;
+}
+
+.div2{
+    
+    background-color: blue;
+}
+
+.div1{
+    left: 10pt;
+    top: 70pt;
+    background-color: cyan;
+}
